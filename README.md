@@ -8,7 +8,7 @@
 
 ## 1️⃣ 게임 빌드하기
 
-**Unity로 만든 경우 — exe (Windows)**
+**Unity 등 게임엔진으로 만든 경우 — exe (Windows)**
 ```
 Unity 상단 메뉴 File → Build Settings 클릭
 Platform: PC, Mac & Linux Standalone, Target Platform: Windows 선택
