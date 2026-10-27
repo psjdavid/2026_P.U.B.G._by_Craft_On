@@ -16,6 +16,28 @@ Build 클릭 → 저장할 폴더 지정
 .exe 파일 + _Data 폴더, .dll 파일들까지 생성됨
 ```
 
+**Unity로 만든 경우 — app (macOS)**
+```
+Platform: PC, Mac & Linux Standalone, Target Platform: macOS 선택
+Build 클릭 → 저장할 폴더 지정
+.app 파일 하나로 생성됨 (실제로는 내부에 여러 파일이 든 폴더)
+```
+
+#### ⚠️ .app은 반드시 맥에서 압축해주세요! (우클릭 → "압축") 윈도우에서 압축하면 실행 권한이 깨져서 안 열릴 수 있어요.
+#### ⚠️ 서명 안 된 앱이라 처음 실행 시 "확인되지 않은 개발자" 경고가 뜹니다 → 우클릭 → 열기, 또는 시스템 설정 → 개인정보 보호 및 보안 → "그래도 열기"
+
+**Unity로 만든 경우 — iOS (iPhone/iPad)**
+```
+Unity Hub에서 iOS Build Support 모듈 설치 (맥 필수)
+Platform을 iOS로 변경 후 Build
+.ipa가 아니라 Xcode 프로젝트 폴더가 생성됨
+Xcode로 열기 → Signing & Capabilities에서 Apple ID(Team) 선택
+아이폰을 맥에 연결 → Run(▶) 버튼으로 기기에 설치
+```
+
+#### ⚠️ iOS는 exe/apk처럼 파일 하나로 배포가 안 됩니다! 무료 Apple ID로 설치한 앱은 7일 후 만료되고, .ipa 배포나 TestFlight는 유료 개발자 계정(연 $99)이 필요해요.
+#### 👉 iOS로 개발한 팀은 Xcode 프로젝트 폴더를 zip으로 압축해서 올리고, 플레이 영상이나 WebGL 빌드를 함께 제출하는 걸 추천합니다.
+
 **Unity로 만든 경우 — apk (Android)**
 ```
 Platform을 Android로 변경 후 Build
