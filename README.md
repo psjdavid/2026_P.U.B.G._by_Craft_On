@@ -1,5 +1,50 @@
 # 2026_P.U.B.G._by_Craft_On
 
+# 🎮 2026 P.U.B.G. 출품작
+
+Craft:On 게임개발대회 **P.U.B.G. (Players Under Building Games)** 에 출품된 게임들입니다.
+직접 플레이해 보고, 마음에 드는 게임에 ⭐ Star를 눌러 투표해 주세요!
+
+## ⭐ 좋아요 투표 안내
+
+- **투표 기간:** 11월 15일 ~ 11월 20일 (기간 외 스타는 집계 제외)
+- 마음에 드는 게임 레포에 ⭐ Star를 눌러 주세요. 개수 제한은 없습니다.
+- ⚠️ **이 대회 레포가 아니라, 아래 표의 각 게임 레포에 눌러 주세요!**
+- 본인 팀 레포에 누른 스타는 제외됩니다. (자추 불가!)
+
+**Star 누르는 법:** GitHub 로그인 → 아래 표에서 게임 레포 열기 → 오른쪽 위(모바일은 레포 이름 아래) **☆ Star** 클릭 → **★ Starred**로 바뀌면 완료!
+
+## 📋 게임 목록
+
+> 팀 이름 순으로 정렬했으며, 순서는 순위와 관계없습니다.
+
+| 게임 | 팀 | 장르 | 실행 | 바로가기 |
+|---|---|---|---|---|
+| 대학생이던 내가 이세계에서는 탑을 오르는 용사라고요?! | BACKGROUND | 2D 탑다운 보스 액션 | 💻 Windows | [게임 레포 ⭐](https://github.com/qoruddl3/BACKGROUND) |
+| 코딩만 하려던 나에게 연애 플래그를 세우지 마세요 에이전트님! | DokiDoki Runtime | 연애 비주얼 노벨 | 🌐 웹 | [게임 레포 ⭐](https://github.com/EomTeaEun/craft-on-dokidoki-runtime) |
+| Midnight Station | MS | 1인칭 서바이벌 호러 | 💻 Windows | [게임 레포 ⭐](https://github.com/hendrick-baek/craft-on-MS-MidnightStation) |
+| 중세난장판 | 대감댁 | 병맛 FPS | 💻 Windows · 🌐 웹 | [게임 레포 ⭐](https://github.com/apply2/craft-on-team-DaeGamDack) |
+| Rune-Reflector | 둠강선 | 패링 액션 로그라이트 | 💻 Windows | [게임 레포 ⭐](https://github.com/jinrud/craft-on-team-choijinkyung) |
+| 요시와라 | 떡볶이집에서찰순대를안파는건범죄 | 1인칭 미스터리 추리 | 💻 Windows | [게임 레포 ⭐](https://github.com/zurayah/craft-on-team-tteokbokki) |
+| Triple Hunter | 배울거없는교육부장 | 탑다운 액션 로그라이트 | 🌐 HTML 파일 | [게임 레포 ⭐](https://github.com/jinshehyunn/craft-on-team-uselesseducation) |
+| 표접 (標蝶) | 범인은 개발자 | 학원 미스터리 비주얼 노벨 | 💻 Windows | [게임 레포 ⭐](https://github.com/yeeun9205/craft-on-team--) |
+| 앨리스와 토끼 | 세렌디피티 | 2D 보스전 액션 | 💻 Windows | [게임 레포 ⭐](https://github.com/Fanteller/craft-on-team-Serendipity) |
+| AI 안경 시뮬레이터 | 육개장사발면작은컵 | 시뮬레이션 | 📥 다운로드 | [게임 레포 ⭐](https://github.com/marsel010904-code/repo) |
+| Qurologia | 코제 | 2D 액션 | 💻 Windows | [게임 레포 ⭐](https://github.com/kongpangdy/craft-on-team-KoSe) |
+| Inventory Auto Battle | 피스메이커 | 인벤토리 퍼즐 오토배틀러 | 💻 Windows | [게임 레포 ⭐](https://github.com/Jvncyo/InventoryAutoBattle) |
+| 햄스터 셰프 | 햄스터 | 3D 요리 대전 | 🌐 웹 | [게임 레포 ⭐](https://github.com/hyeon5702/hamster_chef) |
+
+**비경쟁 출품작** (수상 및 집계 대상이 아니에요. 플레이는 자유롭게 해 주세요!)
+
+| 게임 | 팀 | 장르 | 실행 | 바로가기 |
+|---|---|---|---|---|
+| 병원의 고해 | 시루와 방실이 | 픽셀 추리 어드벤처 | 🌐 HTML 파일 | [게임 레포](https://github.com/bangsiru0606/pubg) |
+
+> 💡 각 게임의 다운로드 링크와 실행 방법은 게임 레포의 README에 있어요.
+> 💻 Windows 게임은 zip을 받은 뒤 **압축을 모두 풀고** 실행해 주세요. 기본 압축 해제로 오류가 나면 반디집이나 7-Zip을 써 보세요.
+
+---
+
 # 📦 PUBG 게임 제출 가이드 📦
 
 ### "내가 만든 게임, 어떻게 제출하나요?"
