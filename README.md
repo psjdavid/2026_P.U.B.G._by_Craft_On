@@ -20,7 +20,7 @@ Craft:On 게임개발대회 **P.U.B.G. (Players Under Building Games)** 에 출�
 
 | 게임 | 팀 | 장르 | 실행 | 바로가기 |
 |---|---|---|---|---|
-| 대학생이던 내가 이세계에서는 탑을 오르는 용사라고요?! | BACKGROUND | 2D 탑다운 보스 액션 | 💻 Windows | [게임 레포 ⭐](https://github.com/qoruddl3/BACKGROUND) |
+| 대학생이던 내가 이세계에서는 탑을 오르는 용사라고요?! | BACKGROUND | 2D 탑다운 보스 액션 | 💻 Windows | [게임 레포 ⭐](https://github.com/bgebge8/BACKGROUND) |
 | 코딩만 하려던 나에게 연애 플래그를 세우지 마세요 에이전트님! | DokiDoki Runtime | 연애 비주얼 노벨 | 🌐 웹 | [게임 레포 ⭐](https://github.com/EomTeaEun/craft-on-dokidoki-runtime) |
 | Midnight Station | MS | 1인칭 서바이벌 호러 | 💻 Windows | [게임 레포 ⭐](https://github.com/hendrick-baek/craft-on-MS-MidnightStation) |
 | 중세난장판 | 대감댁 | 병맛 FPS | 💻 Windows · 🌐 웹 | [게임 레포 ⭐](https://github.com/apply2/craft-on-team-DaeGamDack) |
